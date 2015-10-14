@@ -21,3 +21,11 @@ The easiest way to install is using [Sublime Package Control](https://packagecon
 ### Cpp
 
 ![Cpp](https://raw.githubusercontent.com/watergear/sublime-coffee-color-scheme/master/screenshots/cpp.png)
+
+### Python
+
+![Python](https://raw.githubusercontent.com/watergear/sublime-coffee-color-scheme/master/screenshots/python.png)
+
+### Java
+
+![Java](https://raw.githubusercontent.com/watergear/sublime-coffee-color-scheme/master/screenshots/java.png)
