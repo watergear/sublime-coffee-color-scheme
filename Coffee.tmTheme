@@ -124,6 +124,28 @@
 		</dict>
 		<dict>
 			<key>name</key>
+			<string>Keyword Operator</string>
+			<key>scope</key>
+			<string>keyword.operator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CBB13D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>JavaScript Dollar</string>
+			<key>scope</key>
+			<string>variable.other.dollar.only.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CBAD25</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
 			<string>Storage</string>
 			<key>scope</key>
 			<string>storage</string>
@@ -146,6 +168,19 @@
 				<string>italic</string>
 				<key>foreground</key>
 				<string>#CB8C25</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Entity name</string>
+			<key>scope</key>
+			<string>entity.name - (entity.name.filename | entity.name.section | entity.name.tag | entity.name.label)</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#E0AF63</string>
 			</dict>
 		</dict>
 		<dict>
@@ -197,7 +232,20 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#B87430</string>
+				<string>#C46C40</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Language variable</string>
+			<key>scope</key>
+			<string>variable.language</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#C46030</string>
 			</dict>
 		</dict>
 		<dict>
@@ -224,6 +272,19 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#8F990D</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Function call</string>
+			<key>scope</key>
+			<string>variable.function</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#CD8843</string>
 			</dict>
 		</dict>
 		<dict>
@@ -378,11 +439,20 @@
 		</dict>
 		<dict>
 			<key>scope</key>
-			<string>entity.name.filename.find-in-files</string>
+			<string>entity.name.filename</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#CDA443</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>message.error</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F84A33</string>
 			</dict>
 		</dict>
 
