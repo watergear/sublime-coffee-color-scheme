@@ -29,3 +29,7 @@ The easiest way to install is using [Sublime Package Control](https://packagecon
 ### Java
 
 ![Java](https://raw.githubusercontent.com/watergear/sublime-coffee-color-scheme/master/screenshots/java.png)
+
+### JavaScript
+
+![JavaScript](https://raw.githubusercontent.com/watergear/sublime-coffee-color-scheme/master/screenshots/javascript.png)
