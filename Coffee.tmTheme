@@ -456,11 +456,21 @@
 
 		<dict>
 			<key>scope</key>
+			<string>markup.underline.link</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7A8A1E</string>
+			</dict>
+		</dict>
+
+		<dict>
+			<key>scope</key>
 			<string>constant.numeric.line-number.find-in-files - match</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#735533</string>
+				<string>#CB6B2560</string>
 			</dict>
 		</dict>
 		<dict>
